@@ -13,3 +13,4 @@ function numberToString(num) {
     return num.toFixed();
 }
 
+const numberToString = num => `${num}`;
