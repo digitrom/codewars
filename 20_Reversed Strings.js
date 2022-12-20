@@ -7,4 +7,3 @@ function solution(str){
 }
 
 let solution = (str) => str.split("").reverse().join("");
-  
