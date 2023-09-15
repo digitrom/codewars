@@ -9,3 +9,4 @@ function positiveSum(arr) {
 }
 
 let result = positiveSum([1, 2, -1])
+
